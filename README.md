@@ -6,12 +6,12 @@ This is a solution for kaggle 2018 [data-science-bowl-2018/](https://www.kaggle.
 
 I will update the network and baseline in the future days.
 
-### Futuere work
+### Future work
 
 - Use Mask RCNN to test
 - Use PSPNet to test
 - Use FCN to test
-- Use RPN+FPN+FCN to to test
+- Use RPN+FPN+FCN to test
 
 
 ### Observation
