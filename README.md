@@ -21,3 +21,8 @@ I will update the network and baseline in the future days.
 - If you want use this code, just `git clone` and `python unet.py`
   
 
+### Dependency
+- python 2.7
+- keras
+- tensorflow
+- etc.
