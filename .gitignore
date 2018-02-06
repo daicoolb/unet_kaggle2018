@@ -1,2 +1,2 @@
 *.h5
-./stage1_model/*.h5
+stage1_model/*.h5
